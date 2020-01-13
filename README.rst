@@ -2,6 +2,9 @@
 acdh-django-filechecker
 =============================
 
+.. image:: https://badge.fury.io/py/acdh-django-filechecker.svg
+    :target: https://badge.fury.io/py/acdh-django-filechecker
+
 Django-App to store, edit, enrich and serialize the results of https://github.com/acdh-oeaw/repo-file-checker
 
 
