@@ -1,0 +1,4 @@
+acdh-django-netvis==0.1.1
+Django>=2.1
+rdflib>=4.0
+filecheckerWrapper==1.8.2
