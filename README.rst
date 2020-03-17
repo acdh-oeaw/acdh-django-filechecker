@@ -36,3 +36,9 @@ Update your project's urls.py:
         url(r'^filechecker/', include('filechecker.urls', namespace='filechecker')),
         ...
       ]
+
+import filechecker results
+
+.. code-block:: shell
+
+    python manage.py import_fc_report.py [location to filelist.json]
